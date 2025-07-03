@@ -12,7 +12,8 @@
 
 ## Installation
 
-To install directly from GitHub Pages:
+To install the `rround` command in Stata, run:
 
 ```stata
-net install rround, from("https://thomasschober.github.io/rround/")
+net install rround, from("https://raw.githubusercontent.com/thomasschober/rround/main/")
+
