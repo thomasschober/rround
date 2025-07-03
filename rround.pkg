@@ -1,5 +1,4 @@
-rround.ado
-rround.sthlp
-README.md
-
-rround: Random rounding to base 3
+v 3
+d rround: random rounding to base 3
+f rround.ado
+f rround.sthlp
